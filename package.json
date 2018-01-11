@@ -1,0 +1,22 @@
+{
+    "name": "koa-test",
+    "version": "0.1.0",
+    "description": "Hello Koa 2 example with async",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "keywords": [
+        "koa",
+        "async"
+    ],
+    "author": "Jerry",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Jerry-Mr-Xu/KoaTest"
+    },
+    "dependencies": {
+        "koa": "2.0.0"
+    }
+}
